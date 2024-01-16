@@ -1,0 +1,19 @@
+.ground {
+    background-color: crimson;
+    text-align: center;
+    padding: 100px;
+}
+
+#pic {
+    height: 500px;
+    width: 700px;
+}
+
+#sigitas {
+    color: darkred;
+    font-size: 100px;
+}
+
+#bold {
+    font-weight: 900;
+}
